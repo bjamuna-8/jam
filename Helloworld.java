@@ -8,6 +8,7 @@ System.out.println("Hello  Jamuna");
 int a=10,b=20;
 int c=a+b;
 System.out.println(c);
+ System.out.println(c);
 }
 }
  
